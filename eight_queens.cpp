@@ -1,3 +1,9 @@
+/**
+Diz piece of code computes all possible solutions to the 8-Queens Problem.
+Backtracking is used to prune the decision space.
+For further information, take a look @ https://en.wikipedia.org/wiki/Backtracking
+**/
+
 #include <stdio.h>
 #include <math.h>
 #include <functional>
